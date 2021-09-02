@@ -1,7 +1,7 @@
 
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Routing from './Components/Route';
+import Routing from './Components3/Route';
 
 
 
